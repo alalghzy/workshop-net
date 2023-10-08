@@ -17,7 +17,7 @@
                     {{ __('You are logged in!') }}
                 </div>
 
-                <a href="{{ url('/posts') }}"><button class="btn btn-primary">Sistm CRUD</button></a>
+                <a class="mb-2 ms-3" href="{{ url('/posts') }}"><button class="btn btn-primary">Sistem CRUD</button></a>
             </div>
         </div>
     </div>
