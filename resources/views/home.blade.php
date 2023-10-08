@@ -15,8 +15,9 @@
                     @endif
 
                     {{ __('You are logged in!') }}
-                    <a href="{{ url('/posts') }}"><button class="btn btn-primary">CRUD</button></a>
                 </div>
+
+                <a href="{{ url('/posts') }}"><button class="btn btn-primary">Sistm CRUD</button></a>
             </div>
         </div>
     </div>
